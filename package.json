@@ -569,6 +569,12 @@
       "hash": "QmYKNMEUK7nCVAefgXF1LVtZEZg3uRmBqiae4FJRXDNAyJ",
       "name": "go-path",
       "version": "1.0.1"
+    },
+    {
+      "author": "magik6k",
+      "hash": "QmbfPqH4QFLQWdfXa111eBKgdTiLkZv2Pc4Qpm2byUeByU",
+      "name": "go-ipfs-config",
+      "version": "0.1.0"
     }
   ],
   "gxVersion": "0.10.0",
